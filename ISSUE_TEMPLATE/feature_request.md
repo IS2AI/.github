@@ -1,3 +1,11 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: '[Feature]'
+labels: enhancement
+assignees: ''
+
+---
 ### Description
 Implement a user authentication system to allow users to register, log in, and log out.
 
