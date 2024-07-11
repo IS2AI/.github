@@ -1,7 +1,7 @@
 ---
 name: Improvement
 about: Suggest an improvement for an existing feature
-title: ''
+title: '[Improvement] Title'
 labels: improvement
 assignees: ''
 
