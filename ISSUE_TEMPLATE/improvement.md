@@ -4,7 +4,6 @@ about: Suggest an improvement for an existing feature
 title: '[Improvement] Title'
 labels: improvement
 assignees: ''
-
 ---
 
 **Description**
